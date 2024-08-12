@@ -2,7 +2,7 @@
 I'm Lucas, and I like computers!
 
 - 😄 Pronouns: He/Him
-- 👀 Age: 18 (i guess you can call me a baby coder?)
+- 👀 Age: 18
 - 💬 Ask me about: Anything you want!
 - 🌱 I’m currently learning: Java
 - 🔭 I’m currently working on: my chair
